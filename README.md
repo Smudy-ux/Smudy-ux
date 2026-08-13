@@ -1,5 +1,5 @@
 <div align="center">
   <picture>
-    <img alt="GitHub Metrics Dashboard" src="https://raw.githubusercontent.com/yourusername/yourusername/metrics/github-metrics.svg">
+    <img alt="GitHub Metrics Dashboard" src="github-metrics.svg">
   </picture>
 </div>
